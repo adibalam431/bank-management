@@ -6,5 +6,13 @@
         "pin": "3249",
         "accountNo.": "4rU!1E8",
         "balance": 100
+    },
+    {
+        "name": "adb",
+        "age": 22,
+        "email": "adbadb",
+        "pin": "1234",
+        "accountNo.": "X&oz506",
+        "balance": 0
     }
 ]
