@@ -195,6 +195,7 @@ class Bank:
             if check == "y" or check == "Y":
                 index = Bank.data.index(userdata[0])
                 Bank.data.pop(index)
+                Bank.__Update()
                 print("Account deleted successfully")
 
 
